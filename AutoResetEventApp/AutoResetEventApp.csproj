@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{999A4EA2-7B03-4970-94D8-F7820FF43B1E}</ProjectGuid>
+    <ProjectGuid>{9CD00C34-912A-4391-9F8F-527AACC2766E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp_ITC</RootNamespace>
-    <AssemblyName>ConsoleApp_ITC</AssemblyName>
+    <RootNamespace>AutoResetEventApp</RootNamespace>
+    <AssemblyName>AutoResetEventApp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
