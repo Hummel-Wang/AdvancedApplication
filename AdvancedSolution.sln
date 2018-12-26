@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventApp", "AutoRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEventApp", "ManualResetEventApp\ManualResetEventApp.csproj", "{2BC5234A-9507-4F0B-B967-5C616772063A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomManipulationApp", "AtomManipulationApp\AtomManipulationApp.csproj", "{36A2B526-A4EC-4344-8699-E17E3DF08347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomManipulationApp2", "AtomManipulationApp2\AtomManipulationApp2.csproj", "{1185EA67-CA34-40D8-9DD2-C07C1BD9156F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{2BC5234A-9507-4F0B-B967-5C616772063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC5234A-9507-4F0B-B967-5C616772063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC5234A-9507-4F0B-B967-5C616772063A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A2B526-A4EC-4344-8699-E17E3DF08347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A2B526-A4EC-4344-8699-E17E3DF08347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A2B526-A4EC-4344-8699-E17E3DF08347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A2B526-A4EC-4344-8699-E17E3DF08347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1185EA67-CA34-40D8-9DD2-C07C1BD9156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1185EA67-CA34-40D8-9DD2-C07C1BD9156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1185EA67-CA34-40D8-9DD2-C07C1BD9156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1185EA67-CA34-40D8-9DD2-C07C1BD9156F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +42,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9CD00C34-912A-4391-9F8F-527AACC2766E} = {C1C6F6E0-352C-41B2-84F4-7CCAFB798248}
 		{2BC5234A-9507-4F0B-B967-5C616772063A} = {C1C6F6E0-352C-41B2-84F4-7CCAFB798248}
+		{36A2B526-A4EC-4344-8699-E17E3DF08347} = {C1C6F6E0-352C-41B2-84F4-7CCAFB798248}
+		{1185EA67-CA34-40D8-9DD2-C07C1BD9156F} = {C1C6F6E0-352C-41B2-84F4-7CCAFB798248}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F1E6068-6EEE-47E0-9A7A-FB837F0B1051}
